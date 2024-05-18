@@ -1,0 +1,13 @@
+@media (max-width:768px) {
+    img{
+        width: 300px;
+    
+    }
+    .head h1 {
+        font-size: 20px;
+    }
+    .head li {
+        padding: 7px;
+    }
+    
+}
